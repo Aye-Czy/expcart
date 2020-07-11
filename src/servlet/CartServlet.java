@@ -12,6 +12,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import entity.Cart;
+import entity.User;
+import mysql.DataBase;
 
 
 public class CartServlet extends HttpServlet {
